@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title" : "some",
+    "price": 58,
+    "img": "https://secure.ce-tescoassets.com/assets/CZ/472/0000054491472/ShotType1_540x540.jpg",
+    "description": "Some text over here"
+  }
+]
